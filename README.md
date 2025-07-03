@@ -34,5 +34,12 @@ The main objectives of this project are to:
 -Analyze the cumulative revenue generated over time
 -Determine the top 3 most ordered pizza types based on revenue for each pizza category
 
+**📈 Future Enhancements**
+1)Visualization using Power BI or Tableau
+
+2)Integration with a dashboard for real-time sales tracking
+
+3)Predictive analysis using ML (Pizza demand forecasting)
+
 
 
